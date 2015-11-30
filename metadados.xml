@@ -3,10 +3,8 @@
 	<Recurso>
 		<Nome>UBS</Nome>
 		<ListaEstados>
-			<Estado>
-				<Nome>RJ</Nome>
-				<Nome>SP</Nome>
-			</Estado>	
+			<NomeEstado>RJ</NomeEstado>
+			<NomeEstado>SP</NomeEstado>
 		</ListaEstados>
 		<ListaMunicipios>
 			<Municipio>Rio de Janeiro</Municipio>
