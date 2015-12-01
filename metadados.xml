@@ -3,6 +3,7 @@
 	<Recurso>
 		<Nome>UPA</Nome>
 		<Url>http://189.9.137.169:8080/geoserver/pac/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pac:upa&amp;outputFormat=JSON</Url>
+		<UrlArquivo>http://189.9.137.169:8080/geoserver/pac/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pac:upa&amp;outputFormat=JSON</UrlArquivo>
 		<ListaEstados>
 			<Estado>
 				<Nome>RJ</Nome>
