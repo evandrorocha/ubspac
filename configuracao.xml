@@ -2,7 +2,7 @@
 <UbsPac>
 	<Recurso>
 		<Nome>UPA</Nome>
-		<Url>http://189.9.137.169:8080/geoserver/pac/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pac:upa&amp;outputFormat=JSON</Url>
+		<Url>http://i3geo.saude.gov.br/i3geo/ogc.php?service=WFS&version=1.0.0&request=GetFeature&typeName=upa_funcionamento_cnes&outputFormat=JSON</Url>
 		<Formato>JSON</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
 		<PosicaoLatitude>1</PosicaoLatitude>
