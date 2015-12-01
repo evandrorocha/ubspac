@@ -6,8 +6,6 @@
 		<Formato>CSV</Formato>
 		<Separador>,</Separador>
 		<Dimensao>Georreferenciamento</Dimensao>
-		<PosicaoLatitude>1</PosicaoLatitude>
-		<PosicaoLongitude>0</PosicaoLongitude>
 		<CamposObrigatorios>
 		  <Latitude>lat</Latitude>
 		  <Longitude>long</Longitude>
