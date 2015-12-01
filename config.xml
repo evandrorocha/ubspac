@@ -4,7 +4,7 @@
 		<Nome>UPA</Nome>
 		<Url>http://i3geo.saude.gov.br/i3geo/ogc.php?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=upa_funcionamento_cnes&amp;outputFormat=CSV</Url>
 		<Formato>CSV</Formato>
-		<Separador>CSV</Separador>
+		<Separador>,</Separador>
 		<Dimensao>Georreferenciamento</Dimensao>
 		<PosicaoLatitude>1</PosicaoLatitude>
 		<PosicaoLongitude>0</PosicaoLongitude>
