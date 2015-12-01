@@ -6,14 +6,20 @@
 			<Estado>
 				<Nome>RJ</Nome>
 				<ListaMunicipios>
-					<Municipio>Rio de Janeiro</Municipio>
-					<Municipio>Duque de Caxias</Municipio>
+					<Municipio>
+						<Nome>Rio de Janeiro</Nome>
+					</Municipio>
+					<Municipio>
+						<Nome>Duque de Caxias</Nome>
+					</Municipio>
 				</ListaMunicipios>		
 			</Estado>
 			<Estado>
 				<Nome>SP</Nome>
 				<ListaMunicipios>
-					<Municipio>São Paulo</Municipio>
+					<Municipio>
+						<Nome>São Paulo</Nome>
+					</Municipio>
 					
 				</ListaMunicipios>
 			</Estado>	
