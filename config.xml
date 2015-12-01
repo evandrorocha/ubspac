@@ -18,11 +18,11 @@
 			 <Mapeamento>Nome</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>unidade_federativa</Original>
+			 <Original>uf</Original>
 			 <Mapeamento>Estado</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>municipio</Original>
+			 <Original>cidade</Original>
 			 <Mapeamento>Município</Mapeamento>
 		  </MapeamentoMetadado>
 	   </ListaMetadados>
