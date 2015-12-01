@@ -3,12 +3,21 @@
 	<Recurso>
 		<Nome>UBS</Nome>
 		<ListaEstados>
-			<NomeEstado>RJ</NomeEstado>
-			<NomeEstado>SP</NomeEstado>
+			<Estado>
+				<Nome>RJ</Nome>
+				<ListaMunicipios>
+					<Municipio>Rio de Janeiro</Municipio>
+					<Municipio>Duque de Caxias</Municipio>
+				</ListaMunicipios>		
+			</Estado>
+			<Estado>
+				<Nome>SP</Nome>
+				<ListaMunicipios>
+					<Municipio>São Paulo</Municipio>
+					
+				</ListaMunicipios>
+			</Estado>	
 		</ListaEstados>
-		<ListaMunicipios>
-			<Municipio>Rio de Janeiro</Municipio>
-			<Municipio>São Paulo</Municipio>
-		</ListaMunicipios>		
+		
 	</Recurso>
 </UbsPac>
