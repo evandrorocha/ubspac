@@ -11,11 +11,11 @@
 		<CamposObrigatorios>
 		  <Latitude>lat</Latitude>
 		  <Longitude>long</Longitude>
-		  <Titulo>empreendimento</Titulo>
+		  <Titulo>no_fantasia</Titulo>
 	    </CamposObrigatorios>
 		<ListaMetadados>
 		  <MapeamentoMetadado>
-			 <Original>empreendimento</Original>
+			 <Original>no_fantasia</Original>
 			 <Mapeamento>Nome</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
