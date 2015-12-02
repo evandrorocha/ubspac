@@ -8,44 +8,109 @@
 		<PosicaoLatitude>1</PosicaoLatitude>
 		<PosicaoLongitude>0</PosicaoLongitude>
 		<CamposObrigatorios>
-		  <Latitude>lat</Latitude>
-		  <Longitude>long</Longitude>
-		  <Titulo>empreendimento</Titulo>
+		  <Latitude>vlr_latitude</Latitude>
+		  <Longitude>vlr_longitude</Longitude>
+		  <Titulo>nom_estab</Titulo>
 	    </CamposObrigatorios>
 		<ListaMetadados>
 		  <MapeamentoMetadado>
-			 <Original>empreendimento</Original>
+			 <Original>nom_estab</Original>
 			 <Mapeamento>Nome</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>unidade_federativa</Original>
+			 <Original>dsc_endereco</Original>
+			 <Mapeamento>Endereço</Mapeamento>
+		  </MapeamentoMetadado>
+		  <MapeamentoMetadado>
+			 <Original>dsc_uf</Original>
 			 <Mapeamento>Estado</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>municipio</Original>
+			 <Original>dsc_cidade</Original>
 			 <Mapeamento>Município</Mapeamento>
 		  </MapeamentoMetadado>
 	   </ListaMetadados>
 		<ListaEstados>
 			<Estado>
-				<Nome>RJ</Nome>
+				<Nome>Ceará (CE)</Nome>
 				<ListaMunicipios>
+					<Municipio>
+						<Nome>Fortaleza</Nome>
+					</Municipio>
+			</Estado>
+			
+			<Estado>
+				<Nome>Distrito Federal (DF)</Nome>
+				<ListaMunicipios>
+					<Municipio>
+						<Nome>Brasília</Nome>
+					</Municipio>
+				</ListaMunicipios>
+			</Estado>
+
+			<Estado>
+				<Nome>Espírito Santo (ES)</Nome>
+				<ListaMunicipios>
+					<Municipio>
+						<Nome>Vitória</Nome>
+					</Municipio>
+				</ListaMunicipios>
+			</Estado>
+
+			<Estado>
+				<Nome>Minas Gerais (MG)</Nome>
+				<ListaMunicipios>
+					<Municipio>
+						<Nome>Belo Horizonte</Nome>
+					</Municipio>
+				</ListaMunicipios>
+			</Estado>
+			
+			<Estado>
+				<Nome>Rio de Janeiro (RJ)</Nome>
+				<ListaMunicipios>
+					<Municipio>
+						<Nome>Angra dos Reis</Nome>
+					</Municipio>
+					<Municipio>
+						<Nome>Campos dos Goytacazes</Nome>
+					</Municipio>
+					<Municipio>
+						<Nome>Duque de Caxias</Nome>
+					</Municipio>
+					<Municipio>
+						<Nome>Macaé</Nome>
+					</Municipio>
+					<Municipio>
+						<Nome>Niterói</Nome>
+					</Municipio>
+					<Municipio>
+						<Nome>Nova Iguaçu</Nome>
+					</Municipio>
 					<Municipio>
 						<Nome>Rio de Janeiro</Nome>
 					</Municipio>
 					<Municipio>
-						<Nome>Duque de Caxias</Nome> 
+						<Nome>São Gonçalo</Nome>
 					</Municipio>
-				</ListaMunicipios>		
+					<Municipio>
+						<Nome>São João de Meriti</Nome>
+					</Municipio>
+					<Municipio>
+						<Nome>Volta Redonda</Nome>
+					</Municipio>
+				</ListaMunicipios>
 			</Estado>
+			
 			<Estado>
-				<Nome>SP</Nome>
+				<Nome>São Paulo (SP)</Nome>
 				<ListaMunicipios>
 					<Municipio>
 						<Nome>São Paulo</Nome>
 					</Municipio>
 				</ListaMunicipios>
-			</Estado>	
+			</Estado>
+
 		</ListaEstados>
 		
 	</Recurso>
