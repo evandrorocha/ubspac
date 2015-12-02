@@ -3,10 +3,10 @@
 	<Recurso>
 		<Nome>UPA</Nome>
 		<Url>https://rawgit.com/evandrorocha/ubspac/master/dados_ubs.csv</Url>
-		<Formato>JSON</Formato>
+		<Formato>CSV</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
-		<PosicaoLatitude>1</PosicaoLatitude>
-		<PosicaoLongitude>0</PosicaoLongitude>
+		<Separador>Georreferenciamento</Separador>
+	
 		<CamposObrigatorios>
 		  <Latitude>vlr_latitude</Latitude>
 		  <Longitude>vlr_longitude</Longitude>
