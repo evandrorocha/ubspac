@@ -5,7 +5,7 @@
 		<Url>https://rawgit.com/evandrorocha/ubspac/master/dados_ubs.csv</Url>
 		<Formato>CSV</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
-		<Separador>Georreferenciamento</Separador>
+		<Separador>;</Separador>
 	
 		<CamposObrigatorios>
 		  <Latitude>vlr_latitude</Latitude>
