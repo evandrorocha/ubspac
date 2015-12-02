@@ -2,7 +2,7 @@
 <UbsPac>
 	<Recurso>
 		<Nome>UPA</Nome>
-		<Url>https://rawgit.com/evandrorocha/ubspac/master/dados_ubs.xml</Url>
+		<Url>https://rawgit.com/evandrorocha/ubspac/master/dados_ubs.csv</Url>
 		<Formato>JSON</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
 		<PosicaoLatitude>1</PosicaoLatitude>
