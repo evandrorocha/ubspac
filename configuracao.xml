@@ -6,7 +6,7 @@
 		<Formato>CSV</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
 		<Separador>;</Separador>
-	
+		<Enconding>ISO-8859-1</Enconding>
 		<CamposObrigatorios>
 		  <Latitude>vlr_latitude</Latitude>
 		  <Longitude>vlr_longitude</Longitude>
