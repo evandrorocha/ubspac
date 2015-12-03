@@ -6,7 +6,7 @@
 		<Formato>CSV</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
 		<Separador>;</Separador>
-		<Enconding>ISO-8859-1</Enconding>
+		
 		<CamposObrigatorios>
 		  <Latitude>vlr_latitude</Latitude>
 		  <Longitude>vlr_longitude</Longitude>
@@ -17,18 +17,27 @@
 			 <Original>nom_estab</Original>
 			 <Mapeamento>Nome</Mapeamento>
 		  </MapeamentoMetadado>
+		   <MapeamentoMetadado>
+			 <Original>dsc_telefone</Original>
+			 <Mapeamento>Telefone</Mapeamento>
+		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
 			 <Original>dsc_endereco</Original>
 			 <Mapeamento>Endereço</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>dsc_uf</Original>
-			 <Mapeamento>Estado</Mapeamento>
+			 <Original>dsc_bairro</Original>
+			 <Mapeamento>Bairro</Mapeamento>
 		  </MapeamentoMetadado>
-		  <MapeamentoMetadado>
+		   <MapeamentoMetadado>
 			 <Original>dsc_cidade</Original>
 			 <Mapeamento>Município</Mapeamento>
 		  </MapeamentoMetadado>
+		  <MapeamentoMetadado>
+			 <Original>dsc_uf</Original>
+			 <Mapeamento>Estado</Mapeamento>
+		  </MapeamentoMetadado>
+		
 	   </ListaMetadados>
 		<ListaEstados>
 			<Estado>
